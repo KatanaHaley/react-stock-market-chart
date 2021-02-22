@@ -180,7 +180,7 @@ div.toast {
 div#price_label {
    font-family: 'Open Sans';
    font-weight: 300;
-   color: rgb(70, 76, 85);
+   color: #ffffff;;
    text-align: center;
    height: 100px;
    display: block;
@@ -280,7 +280,7 @@ div#price_label .change {
 }
 
 #stockchart_card {
-   background: white;
+   background: #110120;
    min-height: 300px;
    width: 100%;
 }
